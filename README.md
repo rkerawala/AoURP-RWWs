@@ -8,7 +8,7 @@ dplyr, readxl, tidyverse, tidyr
 # Usage
 Code in the aourp_analysis.R file is specific to analysis of the Researcher Workbench workspace descriptions attained
 from the All of Us Research Program's Research Projects Directory: https://www.researchallofus.org/research-projects-directory/
-Various categories of the workspace descriptions are available at aourp_figure_data.csv.
+Various categories of the workspace descriptions are available at aourp_figure_data.xlsx.
 
 Code was generated using the above packages in R for the following analyses:
 
