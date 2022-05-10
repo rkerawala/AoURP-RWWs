@@ -1,5 +1,5 @@
-#All of Us Researcher Workbench Workspaces: Meta-Analysis, 6/30 final pull
-#Rhea Kerawala
+# All of Us Researcher Workbench Workspaces
+# Analysis of workspace descriptions
 
 #import libraries
 library(readxl)
