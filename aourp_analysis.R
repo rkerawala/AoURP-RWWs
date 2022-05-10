@@ -5,8 +5,8 @@
 library(readxl)
 library(dplyr)
 
-#import workspace description spreadsheet: 6/30/21 Version
-Workspace <- read_excel("workspace description.xlsx")
+#import workspace description spreadsheet
+Workspace <- read_excel("workspace description name.xlsx")
 
 #exclude unneeded columns pertaining to review 
 Workspace <- as.data.frame(c(Workspace[,1], Workspace[,4], Workspace630[,6], Workspace630[8:48]))  
